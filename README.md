@@ -3,7 +3,7 @@ this is my first github repository.
 Author-NAMITA ANNAPPA NAIK[oop1]
 
 
-package com.kunal.introduction;
+//include a package from any source
 
 import java.sql.Struct;
 import java.util.ArrayList;
